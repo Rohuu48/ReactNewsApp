@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Team401';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Team401'), url('Team401.woff') format('woff');
+    }  
+  
+   h1{
+        font-family: 'SEGA LOGO FONT';
+        font-weight: 50;
+        color: rgb(190, 149, 73);
+        font-size: 25px
+    }
